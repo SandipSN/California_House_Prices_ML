@@ -6,7 +6,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 import folium as fl
-from streamlit_folium import st_folium
+import streamlit_folium as st_folium
 
 
 st.write("""
