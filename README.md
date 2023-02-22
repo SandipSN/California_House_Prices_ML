@@ -3,7 +3,7 @@
 
 Training a regression model to predict average house prices in different areas of California.
 
-To view the Streamlit WebApp for this, please visit:
+To view the Streamlit WebApp for this, please visit: https://california-house-price-prediction.streamlit.app/
 
 ## Main Files in this Repo
 
