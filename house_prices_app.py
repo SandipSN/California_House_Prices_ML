@@ -7,6 +7,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 import folium as fl
 from streamlit_folium import st_folium
+import xgboost as xgb
 
 
 st.write("""
